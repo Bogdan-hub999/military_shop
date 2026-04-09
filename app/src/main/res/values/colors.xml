@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="military_dark">#1B2414</color>
+    <color name="military_green">#2E3B23</color>
+    <color name="military_olive">#556B2F</color>
+    <color name="military_accent">#C5E1A5</color>
 </resources>
